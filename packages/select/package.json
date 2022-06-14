@@ -1,15 +1,13 @@
 {
-"name": "ztq-dc-select",
-"version": "0.0.0",
-"description": "ztq-dc-select component",
-"main": "dist/cjs/index.js",
-"module": "dist/es/index.js",
-"author": "教瘦 <54337467@qq.com>",
+  "name": "ztq-dc-select",
+  "version": "0.0.2",
+  "description": "ztq-dc-select component",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "author": "教瘦 <54337467@qq.com>",
   "license": "MIT",
   "scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": []
-  }
+}
