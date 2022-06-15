@@ -1,17 +1,15 @@
 {
-"name": "ztq-dc-search-filter",
-"version": "0.0.0",
-"description": "ztq-dc-search-filter component",
-"main": "dist/cjs/index.js",
-"module": "dist/es/index.js",
-"author": "教瘦 <54337467@qq.com>",
+  "name": "ztq-dc-search-filter",
+  "version": "0.0.3",
+  "description": "ztq-dc-search-filter component",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "author": "教瘦 <54337467@qq.com>",
   "license": "MIT",
   "scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1",
-  "build": "rollup -c",
-  "del": "rimraf dist"
-  },
-  "dependencies": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c",
+    "del": "rimraf dist"
   },
   "keywords": []
-  }
+}
